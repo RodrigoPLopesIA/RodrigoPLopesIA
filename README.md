@@ -17,7 +17,7 @@
 
 ### 📫 Contato
 - Email: **rodrigoplopes25@gmail.com**  
-- LinkedIn: [https://www.linkedin.com/in/rodrigoplopes/](https://www.linkedin.com/in/rodrigoplopesia/))  
+- LinkedIn: [https://www.linkedin.com/in/rodrigoplopes/](https://www.linkedin.com/in/rodrigoplopesia/)  
 - GitHub: [github.com/RodrigoPLopesIA](https://github.com/RodrigoPLopesIA)  
 
 ---
